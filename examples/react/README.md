@@ -14,3 +14,6 @@ This is an example usage of RxDB with [Create React App](https://github.com/face
 # Screenshot
 
 ![Screenshot](docfiles/screenshot.png?raw=true)
+
+# Hosted Demo
+[![Edit the rxdb-example-react demo](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/p9xnw75850)
